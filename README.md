@@ -1,6 +1,7 @@
 # Relatim Chat - WhatsApp-style Messaging App
 
 A full-stack messaging application built with MERN stack and PostgreSQL, featuring real-time messaging, contact management, and a modern UI.
+Live Link: https://relatim-chat.fly.dev/
 
 ## Features
 
@@ -153,6 +154,3 @@ The application uses the following main tables:
 - Database: PostgreSQL with connection pooling
 - Styling: Styled Components for component-based styling
 
-## License
-
-MIT License - feel free to use this project for learning and development purposes.
